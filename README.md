@@ -58,7 +58,7 @@
 
 ##### ::Follow and reach me::
 
-<a href='https://gitlab.com/dmsehd990815'>![js](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)</a>  <a href='dw0815@chungbuk.ac.kr'>![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>  <a href='https://www.instagram.com/is.honest/'>![js](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>  <a href='https://www.linkedin.com/in/eun-jin-kim-609867376/'>![js](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>  
+<a href='https://gitlab.com/dmsehd990815'>![js](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)</a> <a href="mailto:dw0815@chungbuk.ac.kr" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href='https://www.instagram.com/is.honest/'>![js](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a> <a href='https://www.linkedin.com/in/eun-jin-kim-609867376/'>![js](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>  
 
 <br>
 
