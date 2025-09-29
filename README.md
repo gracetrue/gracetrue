@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <!--
 **gracetrue/gracetrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
