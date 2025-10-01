@@ -85,11 +85,11 @@
 
 ### 🧐 And, I'm still learning... 🧐 
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="800" height="650"> 
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="600" height="500"> 
 
 <br>
 
-<img width="800" height="650" alt="image" src="https://github.com/user-attachments/assets/c2fb1397-d6d6-44a5-ac8a-d098982d4439" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/c2fb1397-d6d6-44a5-ac8a-d098982d4439" />
 
 
 </div>
