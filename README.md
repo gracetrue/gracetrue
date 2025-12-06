@@ -1,6 +1,6 @@
 <div align = center>    
   
-  ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=30&section=header&text=Happy%20coding,%20always!🩶&fontSize=20&fontColor=a9a9a9)      
+  ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=30&section=header&text=Happy%20coding,%20always!&fontSize=20&fontColor=a9a9a9)      
   ![header](https://capsule-render.vercel.app/api?type=speech&color=faebd7&height=80&section=header&text=I'm%20Eun-Jin%20Kim,%20powered%20by%20coffee☕&fontSize=40&fontColor=a77e57)       
   ![d36a4a34259355 56ca4de33c005](https://github.com/user-attachments/assets/9f3ceed1-c2f2-4df4-8be6-75cc904572f1)     
   
